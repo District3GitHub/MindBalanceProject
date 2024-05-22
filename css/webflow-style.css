@@ -4099,6 +4099,7 @@ figcaption {
   z-index: -3;
   height: 75vh;
   position: relative;
+  pointer-events: none !important;
 }
 
 .div-block-2 {
