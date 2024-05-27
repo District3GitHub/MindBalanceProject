@@ -291,7 +291,7 @@ pre.w-code-block code {
 }
 
 .w-webflow-badge, .w-webflow-badge * {
-  display: none!important;
+display: none!important;
 }
 
 .w-webflow-badge {
